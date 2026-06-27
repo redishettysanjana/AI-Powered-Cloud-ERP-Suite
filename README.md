@@ -1,6 +1,6 @@
 # 🚀 AI-Powered Cloud ERP Suite
 
-A modern AI-powered Enterprise Resource Planning (ERP) web application built using **React, TypeScript, Vite, and Tailwind CSS**. The application provides an intuitive dashboard for managing employees, inventory, projects, reports, and AI-driven business insights through a responsive and user-friendly interface.
+A modern AI-powered Enterprise Resource Planning (ERP) web application built using **React, TypeScript, Vite, and Tailwind CSS** as part of my internship. The application provides an intuitive dashboard for managing employees, inventory, projects, reports, and AI-driven business insights through a responsive and user-friendly interface.
 
 ## 🌐 Live Demo
 
@@ -98,7 +98,3 @@ npm run build
 - Role-based access control
 - AI-powered predictive analytics
 - Export reports as PDF/Excel
-
----
-
-⭐ If you found this project useful, consider giving it a star!
