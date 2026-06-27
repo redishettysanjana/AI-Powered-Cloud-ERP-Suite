@@ -28,38 +28,6 @@ A modern AI-powered Enterprise Resource Planning (ERP) web application built usi
 - CSS3
 - JavaScript (ES6)
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/redishettysanjana/AI-Powered-Cloud-ERP-Suite.git
-```
-
-### Navigate to the project
-
-```bash
-cd AI-Powered-Cloud-ERP-Suite/project
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start the development server
-
-```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-```
-
 ## 📷 Screenshots
 
 ### 🔐 Login Page
