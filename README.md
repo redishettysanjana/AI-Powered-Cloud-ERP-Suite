@@ -26,7 +26,7 @@ A modern AI-powered Enterprise Resource Planning (ERP) web application built usi
 - Tailwind CSS
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ## 📷 Screenshots
 
@@ -62,7 +62,7 @@ A modern AI-powered Enterprise Resource Planning (ERP) web application built usi
 
 - Authentication with backend integration
 - Cloud database support
-- Real-time analytics
+- Real-time Analytics
 - Role-based access control
-- AI-powered predictive analytics
+- AI-powered predictive Analytics
 - Export reports as PDF/Excel
