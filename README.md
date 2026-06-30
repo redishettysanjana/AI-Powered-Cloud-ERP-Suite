@@ -60,9 +60,9 @@ A modern AI-powered Enterprise Resource Planning (ERP) web application built usi
 
 ## 📌 Future Enhancements
 
-- Authentication with backend integration
-- Cloud database support
+- Authentication with Backend Integration
+- Cloud Database support
 - Real-time Analytics
-- Role-based access control
+- Role-based Access Control
 - AI-powered predictive Analytics
 - Export reports as PDF/Excel
